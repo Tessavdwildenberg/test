@@ -14,7 +14,9 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color:darkgreen;
+	color: palevioletred;
+	font-family: "Lilita One", serif;
 }
 
 .resume-main {
@@ -48,4 +50,14 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.mw-10 {
+}
+
+.contact{
+	color:brown;
+}
+
+.subtitle{
+	color: fuchsia
 }
